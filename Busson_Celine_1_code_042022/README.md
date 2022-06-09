@@ -1,0 +1,1 @@
+=> Le mot de passe utilisateur doit contenir au moins 8 caractères dont une minuscule, une majuscule, un chiffre et un symbole.
